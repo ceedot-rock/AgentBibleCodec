@@ -1,0 +1,2838 @@
+{
+  "title": "The Agentic Coding Bible",
+  "project": "AgentBibleCodec",
+  "version": "v1",
+  "date": "2026-10-22",
+  "parts": [
+    {
+      "part": "Part I — The Foundations of Coding",
+      "chapters": [
+        {
+          "id": "01-computation-and-computability",
+          "title": "Chapter 1 — Computation and Computability",
+          "part": "Part I — The Foundations of Coding",
+          "domains": [
+            "computation",
+            "theory"
+          ],
+          "words": 638,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 81,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "computation",
+                "theory"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 342,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "computation",
+                "theory"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 85,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "computation",
+                "theory"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 57,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "computation",
+                "theory"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 54,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "computation",
+                "theory"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "02-algorithms-and-complexity",
+          "title": "Chapter 2 — Algorithms and Complexity",
+          "part": "Part I — The Foundations of Coding",
+          "domains": [
+            "algorithms",
+            "complexity"
+          ],
+          "words": 608,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 60,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "algorithms",
+                "complexity"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 316,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "algorithms",
+                "complexity"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 93,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "algorithms",
+                "complexity"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 68,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "algorithms",
+                "complexity"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 52,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "algorithms",
+                "complexity"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "03-data-structures",
+          "title": "Chapter 3 — Data Structures",
+          "part": "Part I — The Foundations of Coding",
+          "domains": [
+            "data-structures",
+            "algorithms"
+          ],
+          "words": 565,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 53,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "data-structures",
+                "algorithms"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 311,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "data-structures",
+                "algorithms"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 80,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "data-structures",
+                "algorithms"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 53,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "data-structures",
+                "algorithms"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 50,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "data-structures",
+                "algorithms"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "04-paradigms-and-language-design",
+          "title": "Chapter 4 — Programming Paradigms and Language Design",
+          "part": "Part I — The Foundations of Coding",
+          "domains": [
+            "paradigms",
+            "language-design"
+          ],
+          "words": 542,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 61,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "paradigms",
+                "language-design"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 278,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "paradigms",
+                "language-design"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 87,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "paradigms",
+                "language-design"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 52,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "paradigms",
+                "language-design"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 43,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "paradigms",
+                "language-design"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "05-types-and-formal-semantics",
+          "title": "Chapter 5 — Types and Formal Semantics",
+          "part": "Part I — The Foundations of Coding",
+          "domains": [
+            "types",
+            "semantics"
+          ],
+          "words": 635,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 84,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "types",
+                "semantics"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 310,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "types",
+                "semantics"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 100,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "types",
+                "semantics"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 61,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "types",
+                "semantics"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 60,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "types",
+                "semantics"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "06-operating-systems-processes-memory",
+          "title": "Chapter 6 — Operating Systems, Processes, and Memory",
+          "part": "Part I — The Foundations of Coding",
+          "domains": [
+            "operating-systems",
+            "memory",
+            "processes"
+          ],
+          "words": 609,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 65,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "operating-systems",
+                "memory",
+                "processes"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 333,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "operating-systems",
+                "memory",
+                "processes"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 87,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "operating-systems",
+                "memory",
+                "processes"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 58,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "operating-systems",
+                "memory",
+                "processes"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 45,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "operating-systems",
+                "memory",
+                "processes"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "07-networking-and-distributed-systems",
+          "title": "Chapter 7 — Networking and Distributed Systems",
+          "part": "Part I — The Foundations of Coding",
+          "domains": [
+            "networking",
+            "distributed-systems"
+          ],
+          "words": 578,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 105,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "networking",
+                "distributed-systems"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 261,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "networking",
+                "distributed-systems"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 98,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "networking",
+                "distributed-systems"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 49,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "networking",
+                "distributed-systems"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 45,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "networking",
+                "distributed-systems"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "08-databases-and-storage",
+          "title": "Chapter 8 — Databases and Storage",
+          "part": "Part I — The Foundations of Coding",
+          "domains": [
+            "databases",
+            "storage"
+          ],
+          "words": 594,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 45,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "databases",
+                "storage"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 320,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "databases",
+                "storage"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 99,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "databases",
+                "storage"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 69,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "databases",
+                "storage"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 42,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "databases",
+                "storage"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "09-compilers-interpreters-runtimes",
+          "title": "Chapter 9 — Compilers, Interpreters, and Runtimes",
+          "part": "Part I — The Foundations of Coding",
+          "domains": [
+            "compilers",
+            "runtimes"
+          ],
+          "words": 537,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 55,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "compilers",
+                "runtimes"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 277,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "compilers",
+                "runtimes"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 83,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "compilers",
+                "runtimes"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 53,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "compilers",
+                "runtimes"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 49,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "compilers",
+                "runtimes"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": "Part II — The Craft",
+      "chapters": [
+        {
+          "id": "10-software-design-and-architecture",
+          "title": "Chapter 10 — Software Design and Architecture",
+          "part": "Part II — The Craft",
+          "domains": [
+            "design",
+            "architecture"
+          ],
+          "words": 533,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 51,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "design",
+                "architecture"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 278,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "design",
+                "architecture"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 81,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "design",
+                "architecture"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 52,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "design",
+                "architecture"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 51,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "design",
+                "architecture"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11-testing-and-verification",
+          "title": "Chapter 11 — Testing and Verification",
+          "part": "Part II — The Craft",
+          "domains": [
+            "testing",
+            "verification"
+          ],
+          "words": 556,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 93,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "testing",
+                "verification"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 254,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "testing",
+                "verification"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 96,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "testing",
+                "verification"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 52,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "testing",
+                "verification"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 42,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "testing",
+                "verification"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12-debugging-method",
+          "title": "Chapter 12 — Debugging Method",
+          "part": "Part II — The Craft",
+          "domains": [
+            "debugging",
+            "method"
+          ],
+          "words": 548,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 56,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "debugging",
+                "method"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 254,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "debugging",
+                "method"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 109,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "debugging",
+                "method"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 64,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "debugging",
+                "method"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 47,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "debugging",
+                "method"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "13-security",
+          "title": "Chapter 13 — Security",
+          "part": "Part II — The Craft",
+          "domains": [
+            "security"
+          ],
+          "words": 612,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 65,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "security"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 300,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "security"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 111,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "security"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 63,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "security"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 56,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "security"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "14-performance-and-optimization",
+          "title": "Chapter 14 — Performance and Optimization",
+          "part": "Part II — The Craft",
+          "domains": [
+            "performance",
+            "optimization"
+          ],
+          "words": 559,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 72,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "performance",
+                "optimization"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 274,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "performance",
+                "optimization"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 90,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "performance",
+                "optimization"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 59,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "performance",
+                "optimization"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 45,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "performance",
+                "optimization"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "15-concurrency",
+          "title": "Chapter 15 — Concurrency",
+          "part": "Part II — The Craft",
+          "domains": [
+            "concurrency"
+          ],
+          "words": 523,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 67,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "concurrency"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 264,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "concurrency"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 82,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "concurrency"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 48,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "concurrency"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 45,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "concurrency"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "16-version-control-and-collaboration",
+          "title": "Chapter 16 — Version Control and Collaboration",
+          "part": "Part II — The Craft",
+          "domains": [
+            "version-control",
+            "collaboration"
+          ],
+          "words": 481,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 71,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "version-control",
+                "collaboration"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 217,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "version-control",
+                "collaboration"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 75,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "version-control",
+                "collaboration"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 54,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "version-control",
+                "collaboration"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 44,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "version-control",
+                "collaboration"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "17-documentation-and-readability",
+          "title": "Chapter 17 — Documentation and Readability",
+          "part": "Part II — The Craft",
+          "domains": [
+            "documentation",
+            "readability"
+          ],
+          "words": 565,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 79,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "documentation",
+                "readability"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 239,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "documentation",
+                "readability"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 113,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "documentation",
+                "readability"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 60,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "documentation",
+                "readability"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 55,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "documentation",
+                "readability"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": "Part III — The Agentic Layer",
+      "chapters": [
+        {
+          "id": "18-agent-loops-and-tool-use",
+          "title": "Chapter 18 — Agent Loops and Tool Use",
+          "part": "Part III — The Agentic Layer",
+          "domains": [
+            "agent-loops",
+            "tool-use"
+          ],
+          "words": 667,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 74,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "agent-loops",
+                "tool-use"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 324,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "agent-loops",
+                "tool-use"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 122,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "agent-loops",
+                "tool-use"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 74,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "agent-loops",
+                "tool-use"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 52,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "agent-loops",
+                "tool-use"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "19-harness-design",
+          "title": "Chapter 19 — Harness Design",
+          "part": "Part III — The Agentic Layer",
+          "domains": [
+            "harness-design"
+          ],
+          "words": 704,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 93,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "harness-design"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 354,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "harness-design"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 113,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "harness-design"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 71,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "harness-design"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 55,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "harness-design"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "20-context-engineering",
+          "title": "Chapter 20 — Context Engineering",
+          "part": "Part III — The Agentic Layer",
+          "domains": [
+            "context-engineering"
+          ],
+          "words": 635,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 68,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "context-engineering"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 317,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "context-engineering"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 125,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "context-engineering"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 50,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "context-engineering"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 57,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "context-engineering"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "21-verification-and-selection",
+          "title": "Chapter 21 — Verification and Selection",
+          "part": "Part III — The Agentic Layer",
+          "domains": [
+            "verification",
+            "selection"
+          ],
+          "words": 705,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 88,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "verification",
+                "selection"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 362,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "verification",
+                "selection"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 119,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "verification",
+                "selection"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 62,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "verification",
+                "selection"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 55,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "verification",
+                "selection"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "22-evaluation-and-measurement",
+          "title": "Chapter 22 — Evaluation and Measurement",
+          "part": "Part III — The Agentic Layer",
+          "domains": [
+            "evaluation",
+            "measurement"
+          ],
+          "words": 611,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 51,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "evaluation",
+                "measurement"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 349,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "evaluation",
+                "measurement"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 91,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "evaluation",
+                "measurement"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 47,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "evaluation",
+                "measurement"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 54,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "evaluation",
+                "measurement"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "23-training-agents",
+          "title": "Chapter 23 — Training Agents",
+          "part": "Part III — The Agentic Layer",
+          "domains": [
+            "training",
+            "fine-tuning"
+          ],
+          "words": 756,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 61,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "training",
+                "fine-tuning"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 459,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "training",
+                "fine-tuning"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 98,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "training",
+                "fine-tuning"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 54,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "training",
+                "fine-tuning"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 66,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "training",
+                "fine-tuning"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "24-mandates-receipts-accountability",
+          "title": "Chapter 24 — Mandates, Receipts, and Accountability Patterns",
+          "part": "Part III — The Agentic Layer",
+          "domains": [
+            "accountability",
+            "mandates",
+            "receipts"
+          ],
+          "words": 801,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 81,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "accountability",
+                "mandates",
+                "receipts"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 415,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "accountability",
+                "mandates",
+                "receipts"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 151,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "accountability",
+                "mandates",
+                "receipts"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 73,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "accountability",
+                "mandates",
+                "receipts"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 60,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "accountability",
+                "mandates",
+                "receipts"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "25-failure-modes",
+          "title": "Chapter 25 — Failure Modes of Agentic Systems",
+          "part": "Part III — The Agentic Layer",
+          "domains": [
+            "failure-modes",
+            "reliability"
+          ],
+          "words": 694,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 60,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "failure-modes",
+                "reliability"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 378,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "failure-modes",
+                "reliability"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 122,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "failure-modes",
+                "reliability"
+              ]
+            },
+            {
+              "name": "Failure mode (of failure analysis itself)",
+              "words": 63,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "failure-modes",
+                "reliability"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 46,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "failure-modes",
+                "reliability"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "26-operations",
+          "title": "Chapter 26 — Operations: Running Agents in Production",
+          "part": "Part III — The Agentic Layer",
+          "domains": [
+            "operations",
+            "production"
+          ],
+          "words": 773,
+          "sections": [
+            {
+              "name": "Principle",
+              "words": 54,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "operations",
+                "production"
+              ]
+            },
+            {
+              "name": "Substance",
+              "words": 461,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "operations",
+                "production"
+              ]
+            },
+            {
+              "name": "Worked example",
+              "words": 113,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "operations",
+                "production"
+              ]
+            },
+            {
+              "name": "Failure mode",
+              "words": 58,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "operations",
+                "production"
+              ]
+            },
+            {
+              "name": "Rule",
+              "words": 66,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "operations",
+                "production"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": "Closing",
+      "chapters": [
+        {
+          "id": "27-principles-of-practice",
+          "title": "Chapter 27 — Principles of Practice",
+          "part": "Closing",
+          "domains": [
+            "principles",
+            "practice"
+          ],
+          "words": 606,
+          "sections": [
+            {
+              "name": "(intro)",
+              "words": 41,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "principles",
+                "practice"
+              ]
+            },
+            {
+              "name": "On the loop",
+              "words": 74,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "principles",
+                "practice"
+              ]
+            },
+            {
+              "name": "On enforcement",
+              "words": 66,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "principles",
+                "practice"
+              ]
+            },
+            {
+              "name": "On verification",
+              "words": 96,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "principles",
+                "practice"
+              ]
+            },
+            {
+              "name": "On measurement",
+              "words": 85,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "principles",
+                "practice"
+              ]
+            },
+            {
+              "name": "On training",
+              "words": 72,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "principles",
+                "practice"
+              ]
+            },
+            {
+              "name": "On accountability",
+              "words": 76,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "principles",
+                "practice"
+              ]
+            },
+            {
+              "name": "On the craft itself",
+              "words": 65,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "principles",
+                "practice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part": "Appendices",
+      "chapters": [
+        {
+          "id": "28-appendix-a-errata-exercises",
+          "title": "Appendix A — Errata Exercises: Claims, Flaws, Corrections",
+          "part": "Appendices",
+          "domains": [
+            "critique",
+            "errata"
+          ],
+          "words": 1820,
+          "sections": [
+            {
+              "name": "(intro)",
+              "words": 94,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "critique",
+                "errata"
+              ]
+            },
+            {
+              "name": "Exercise 1 — \"Our fine-tune ran five epochs, so the model learned the task.\"",
+              "words": 195,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "critique",
+                "errata"
+              ]
+            },
+            {
+              "name": "Exercise 2 — \"The submission was confirmed — the page said 'Thank you.'\"",
+              "words": 145,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "critique",
+                "errata"
+              ]
+            },
+            {
+              "name": "Exercise 3 — \"The gate blocks unverified patches.\"",
+              "words": 145,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "critique",
+                "errata"
+              ]
+            },
+            {
+              "name": "Exercise 4 — \"The benchmark improved 50% after our change.\"",
+              "words": 125,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "critique",
+                "errata"
+              ]
+            },
+            {
+              "name": "Exercise 5 — \"Hash-chained receipts prove what the agent did.\"",
+              "words": 172,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "critique",
+                "errata"
+              ]
+            },
+            {
+              "name": "Exercise 6 — \"We measured the library: recursion to depth 20,000 overflows the stack.\"",
+              "words": 177,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "critique",
+                "errata"
+              ]
+            },
+            {
+              "name": "Exercise 7 — \"Adding the discipline prompts didn't help, so discipline doesn't work.\"",
+              "words": 155,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "critique",
+                "errata"
+              ]
+            },
+            {
+              "name": "Exercise 8 — \"Compression beat the entropy bound on our corpus.\"",
+              "words": 151,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "critique",
+                "errata"
+              ]
+            },
+            {
+              "name": "Exercise 9 — \"The agent fixed the bug — all tests pass.\"",
+              "words": 181,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "critique",
+                "errata"
+              ]
+            },
+            {
+              "name": "Exercise 10 — \"Retries are safe — the API usually processes each request once.\"",
+              "words": 142,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "critique",
+                "errata"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "29-appendix-b-canon",
+          "title": "Appendix B — The Canon: Definitive Sources by Domain",
+          "part": "Appendices",
+          "domains": [
+            "canon",
+            "bibliography"
+          ],
+          "words": 710,
+          "sections": [
+            {
+              "name": "(intro)",
+              "words": 51,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "canon",
+                "bibliography"
+              ]
+            },
+            {
+              "name": "Part I — Foundations",
+              "words": 258,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "canon",
+                "bibliography"
+              ]
+            },
+            {
+              "name": "Part II — The Craft",
+              "words": 195,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "canon",
+                "bibliography"
+              ]
+            },
+            {
+              "name": "Part III — The Agentic Layer",
+              "words": 178,
+              "languages": [
+                "agnostic"
+              ],
+              "domains": [
+                "canon",
+                "bibliography"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "canonical": {
+    "types.core": {
+      "chapter": "05-types-and-formal-semantics",
+      "section": "Substance",
+      "ports": [
+        "port/types--cpp",
+        "port/types--go",
+        "port/types--java",
+        "port/types--javascript",
+        "port/types--python",
+        "port/types--rust"
+      ]
+    },
+    "concurrency.core": {
+      "chapter": "15-concurrency",
+      "section": "Substance",
+      "ports": [
+        "port/concurrency--cpp",
+        "port/concurrency--go",
+        "port/concurrency--java",
+        "port/concurrency--javascript",
+        "port/concurrency--python",
+        "port/concurrency--rust"
+      ]
+    }
+  },
+  "ports": [
+    {
+      "id": "port/concurrency--cpp",
+      "title": "Port — Concurrency · C++",
+      "port_of": "concurrency.core",
+      "language": "cpp",
+      "words": 461,
+      "sections": [
+        {
+          "name": "(intro)",
+          "words": 7,
+          "languages": [
+            "cpp"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Definition",
+          "words": 68,
+          "languages": [
+            "cpp"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Idiom mapping",
+          "words": 148,
+          "languages": [
+            "cpp"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Worked example",
+          "words": 92,
+          "languages": [
+            "cpp"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Pitfalls",
+          "words": 98,
+          "languages": [
+            "cpp"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Canon cross-reference",
+          "words": 29,
+          "languages": [
+            "cpp"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        }
+      ]
+    },
+    {
+      "id": "port/concurrency--go",
+      "title": "Port — Concurrency · Go",
+      "port_of": "concurrency.core",
+      "language": "go",
+      "words": 471,
+      "sections": [
+        {
+          "name": "(intro)",
+          "words": 7,
+          "languages": [
+            "go"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Definition",
+          "words": 63,
+          "languages": [
+            "go"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Idiom mapping",
+          "words": 154,
+          "languages": [
+            "go"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Worked example",
+          "words": 88,
+          "languages": [
+            "go"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Pitfalls",
+          "words": 111,
+          "languages": [
+            "go"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Canon cross-reference",
+          "words": 29,
+          "languages": [
+            "go"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        }
+      ]
+    },
+    {
+      "id": "port/concurrency--java",
+      "title": "Port — Concurrency · Java",
+      "port_of": "concurrency.core",
+      "language": "java",
+      "words": 439,
+      "sections": [
+        {
+          "name": "(intro)",
+          "words": 7,
+          "languages": [
+            "java"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Definition",
+          "words": 58,
+          "languages": [
+            "java"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Idiom mapping",
+          "words": 146,
+          "languages": [
+            "java"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Worked example",
+          "words": 67,
+          "languages": [
+            "java"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Pitfalls",
+          "words": 113,
+          "languages": [
+            "java"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Canon cross-reference",
+          "words": 29,
+          "languages": [
+            "java"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        }
+      ]
+    },
+    {
+      "id": "port/concurrency--javascript",
+      "title": "Port — Concurrency · JavaScript",
+      "port_of": "concurrency.core",
+      "language": "javascript",
+      "words": 457,
+      "sections": [
+        {
+          "name": "(intro)",
+          "words": 7,
+          "languages": [
+            "javascript"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Definition",
+          "words": 75,
+          "languages": [
+            "javascript"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Idiom mapping",
+          "words": 143,
+          "languages": [
+            "javascript"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Worked example",
+          "words": 63,
+          "languages": [
+            "javascript"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Pitfalls",
+          "words": 121,
+          "languages": [
+            "javascript"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Canon cross-reference",
+          "words": 29,
+          "languages": [
+            "javascript"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        }
+      ]
+    },
+    {
+      "id": "port/concurrency--python",
+      "title": "Port — Concurrency · Python",
+      "port_of": "concurrency.core",
+      "language": "python",
+      "words": 389,
+      "sections": [
+        {
+          "name": "(intro)",
+          "words": 7,
+          "languages": [
+            "python"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Definition",
+          "words": 78,
+          "languages": [
+            "python"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Idiom mapping",
+          "words": 95,
+          "languages": [
+            "python"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Worked example",
+          "words": 64,
+          "languages": [
+            "python"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Pitfalls",
+          "words": 97,
+          "languages": [
+            "python"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Canon cross-reference",
+          "words": 29,
+          "languages": [
+            "python"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        }
+      ]
+    },
+    {
+      "id": "port/concurrency--rust",
+      "title": "Port — Concurrency · Rust",
+      "port_of": "concurrency.core",
+      "language": "rust",
+      "words": 453,
+      "sections": [
+        {
+          "name": "(intro)",
+          "words": 7,
+          "languages": [
+            "rust"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Definition",
+          "words": 70,
+          "languages": [
+            "rust"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Idiom mapping",
+          "words": 156,
+          "languages": [
+            "rust"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Worked example",
+          "words": 77,
+          "languages": [
+            "rust"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Pitfalls",
+          "words": 95,
+          "languages": [
+            "rust"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        },
+        {
+          "name": "Canon cross-reference",
+          "words": 29,
+          "languages": [
+            "rust"
+          ],
+          "domains": [],
+          "port_of": "concurrency.core"
+        }
+      ]
+    },
+    {
+      "id": "port/types--cpp",
+      "title": "Port — Types · C++",
+      "port_of": "types.core",
+      "language": "cpp",
+      "words": 378,
+      "sections": [
+        {
+          "name": "(intro)",
+          "words": 7,
+          "languages": [
+            "cpp"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Definition",
+          "words": 73,
+          "languages": [
+            "cpp"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Idiom mapping",
+          "words": 103,
+          "languages": [
+            "cpp"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Worked example",
+          "words": 61,
+          "languages": [
+            "cpp"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Pitfalls",
+          "words": 86,
+          "languages": [
+            "cpp"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Canon cross-reference",
+          "words": 29,
+          "languages": [
+            "cpp"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        }
+      ]
+    },
+    {
+      "id": "port/types--go",
+      "title": "Port — Types · Go",
+      "port_of": "types.core",
+      "language": "go",
+      "words": 457,
+      "sections": [
+        {
+          "name": "(intro)",
+          "words": 7,
+          "languages": [
+            "go"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Definition",
+          "words": 60,
+          "languages": [
+            "go"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Idiom mapping",
+          "words": 182,
+          "languages": [
+            "go"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Worked example",
+          "words": 64,
+          "languages": [
+            "go"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Pitfalls",
+          "words": 96,
+          "languages": [
+            "go"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Canon cross-reference",
+          "words": 29,
+          "languages": [
+            "go"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        }
+      ]
+    },
+    {
+      "id": "port/types--java",
+      "title": "Port — Types · Java",
+      "port_of": "types.core",
+      "language": "java",
+      "words": 440,
+      "sections": [
+        {
+          "name": "(intro)",
+          "words": 7,
+          "languages": [
+            "java"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Definition",
+          "words": 68,
+          "languages": [
+            "java"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Idiom mapping",
+          "words": 143,
+          "languages": [
+            "java"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Worked example",
+          "words": 77,
+          "languages": [
+            "java"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Pitfalls",
+          "words": 97,
+          "languages": [
+            "java"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Canon cross-reference",
+          "words": 29,
+          "languages": [
+            "java"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        }
+      ]
+    },
+    {
+      "id": "port/types--javascript",
+      "title": "Port — Types · JavaScript / TypeScript",
+      "port_of": "types.core",
+      "language": "javascript",
+      "words": 446,
+      "sections": [
+        {
+          "name": "(intro)",
+          "words": 7,
+          "languages": [
+            "javascript"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Definition",
+          "words": 76,
+          "languages": [
+            "javascript"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Idiom mapping",
+          "words": 146,
+          "languages": [
+            "javascript"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Worked example",
+          "words": 83,
+          "languages": [
+            "javascript"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Pitfalls",
+          "words": 76,
+          "languages": [
+            "javascript"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Canon cross-reference",
+          "words": 37,
+          "languages": [
+            "javascript"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        }
+      ]
+    },
+    {
+      "id": "port/types--python",
+      "title": "Port — Types · Python",
+      "port_of": "types.core",
+      "language": "python",
+      "words": 404,
+      "sections": [
+        {
+          "name": "(intro)",
+          "words": 7,
+          "languages": [
+            "python"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Definition",
+          "words": 79,
+          "languages": [
+            "python"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Idiom mapping",
+          "words": 112,
+          "languages": [
+            "python"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Worked example",
+          "words": 66,
+          "languages": [
+            "python"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Pitfalls",
+          "words": 92,
+          "languages": [
+            "python"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Canon cross-reference",
+          "words": 29,
+          "languages": [
+            "python"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        }
+      ]
+    },
+    {
+      "id": "port/types--rust",
+      "title": "Port — Types · Rust",
+      "port_of": "types.core",
+      "language": "rust",
+      "words": 392,
+      "sections": [
+        {
+          "name": "(intro)",
+          "words": 7,
+          "languages": [
+            "rust"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Definition",
+          "words": 74,
+          "languages": [
+            "rust"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Idiom mapping",
+          "words": 124,
+          "languages": [
+            "rust"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Worked example",
+          "words": 52,
+          "languages": [
+            "rust"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Pitfalls",
+          "words": 87,
+          "languages": [
+            "rust"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        },
+        {
+          "name": "Canon cross-reference",
+          "words": 29,
+          "languages": [
+            "rust"
+          ],
+          "domains": [],
+          "port_of": "types.core"
+        }
+      ]
+    }
+  ],
+  "total_words": 24352,
+  "section_count": 225
+}
